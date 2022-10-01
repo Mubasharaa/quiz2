@@ -1,0 +1,53 @@
+.nav-2 {
+    background-color:white;
+    overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.nav-2 a {
+  float: right;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.nav-2 a:hover {
+  background-color: #ddd;
+  color:orange;
+}
+h1{
+    font-size: large;
+    color: blueviolet;
+    text-align: center;
+}
+.container {
+    
+    text-align: center;
+    color: white;
+    background-repeat: none;
+  }
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 67px;
+  }
+  #tern{
+    text-align: center;
+    text-decoration: underline;
+    color:black;
+    font-size:60px;
+  }
+.last{
+    text-align: left;
+    color:black;
+    font-size:28px;
+}
+section{
+    margin-left: 100px;
+}
